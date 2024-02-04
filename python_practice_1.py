@@ -1,0 +1,1 @@
+print("Tymofii Solovei, IPZ-4")
